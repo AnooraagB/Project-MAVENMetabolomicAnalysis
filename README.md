@@ -94,7 +94,12 @@ Once you’ve reviewed and curated the peaks, export the results in one of the f
 
 * **Save projects**
   * El-MAVEN projects can be saved in .mzroll format for later use.
-  * This allows users to reopen and continue analysis at any time.  
+  * This allows users to reopen and continue analysis at any time.
+
+* In the repository content, the csv files of the results of the analysis can be found as :
+  * "all_groups.csv" : This includes all the groups obtained in the results.
+  * "good_groups.csv" : This includes those groups which are labelled as good based on the peak and grouping (clustered).
+  * "bad_groups.csv" : This includes those groups which are labelled as bad based on the peak and grouping (scattered). 
 
 ## Future plans
 * Assess how updates to practicality and efficiency of software programs like El-MAVEN affect the results of the analysis.
