@@ -15,7 +15,7 @@ El-MAVEN is a powerful software tool for metabolomic analysis that simplifies th
 
 * **Data visualisation** : Key visualisations include the extracted ion chromatogram (EIC) plot, color-coded for easy identification of sample peaks. Multiple visualisation options are available through the **right-side widget bar**.
   
-* **Data export** : Results can be exported in various formats. The EIC and other group metrics can also be saved for further analysis or visualizations outside of El-MAVEN.
+* **Data export** : Results can be exported in various formats. The EIC and other group metrics can also be saved for further analysis or visualisations outside of El-MAVEN.
 
 ## Software  used
 
